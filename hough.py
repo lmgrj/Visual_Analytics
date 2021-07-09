@@ -1,3 +1,9 @@
+
+'''@author: Lamgaraj mohamed
+   @MAster :  wisd
+   @module: visual analytics  '''
+
+
 import cv2
 
 
