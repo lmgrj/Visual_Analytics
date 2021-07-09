@@ -1,9 +1,9 @@
 """
-edges.py: Canny, Prewitt and Sobel Edge detection using opencv
+   @author: Lamgaraj mohamed
+   @MAster :  wisd
+   @module: visual analytics  
+   Prewitt and Sobel Edge detection using opencv
 """
-__author__      = "K.M. Tahsin Hassan Rahit"
-__email__ = "tahsin.rahit@gmail.com"
-
 import cv2
 import numpy as np
 
