@@ -1,3 +1,7 @@
+'''@author: Lamgaraj mohamed
+   @MAster :  wisd
+   @module: visual analytics  '''
+
 import numpy as np
 import cv2
 from matplotlib import pyplot as plt
