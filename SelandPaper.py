@@ -1,3 +1,6 @@
+'''@author: Lamgaraj mohamed
+   @MAster :  wisd
+   @module: visual analytics  '''
 from scipy import misc
 import cv2
 import numpy as np
