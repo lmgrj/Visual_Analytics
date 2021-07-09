@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 
-img = cv.imread('E:\\masterwisd\\sssss22222\\autumn.png')
+img = cv.imread('E:\\lmgrj\\masterwisd\\s2\\autumn.png') #change path
 
 red_min = 190
 red_max = 255
