@@ -1,3 +1,7 @@
+'''@author: Lamgaraj mohamed
+   @MAster :  wisd
+   @module: visual analytics  '''
+
 import cv2 as cv
 import numpy as np
 
